@@ -29,7 +29,7 @@ Credit: Eugene Yan (https://eugeneyan.com)
 19. [Outreach](#outreach)
 20. [Industry Internships](#industry-internships)
 21. [Intro to AI for Beginners](#intro-to-ai-beginners)
-22. [Intro to AI for non-STEM](#intro-to-ai-nonstem)
+22. [Intro to AI for non-STEM](#intro-to-ai-non-stem)
 
 More to come!!
 
