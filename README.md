@@ -61,7 +61,7 @@ More to come!!
 
 ## Deep Learning
 - [Deep Learning](https://mitpress.mit.edu/books/deep-learning) `MIT`
-- [Dive into Deep Learning](https://d2l.ai/) 
+- [Dive into Deep Learning](https://d2l.ai/) `Amazon`
 
 ## Forecasting
 - [Forecasting at Uber: An Introduction](https://eng.uber.com/forecasting-introduction/) `Uber`
@@ -368,7 +368,6 @@ More to come!!
 - [Artifical Intelligence](https://www.udacity.com/course/artificial-intelligence--ud954) `Georgia Tech`
 - [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185) `Facebook AI`
 - [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) `Georgia Tech`
-- [Knowledge-Based AI: Cognitive Systems](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) `Georgia Tech`
 - [Deep Learning](https://www.coursera.org/specializations/ai-foundations-for-everyone) `DeepLearning.ai`
 - [Introduction to Machine Learning](https://introduction-to-machine-learning.netlify.app/) `LMU`
 
@@ -377,4 +376,4 @@ More to come!!
 - [Intro to Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) `Udacity`
 - [Introduction to Artificial Intelligence](https://www.coursera.org/learn/machine-learning) `IBM`
 - [AI Foundations for Everyone](https://www.coursera.org/specializations/ai-foundations-for-everyone) `IBM`
-- [How artificial intelligence is transforming the world](https://www.brookings.edu/research/how-artificial-intelligence-is-transforming-the-world/) `Brookings Institute`
+- [How artificial intelligence is transforming the world](https://www.brookings.edu/research/how-artificial-intelligence-is-transforming-the-world/) `Brookings`
