@@ -372,10 +372,9 @@ More to come!!
 - [Deep Learning](https://www.coursera.org/specializations/ai-foundations-for-everyone) `DeepLearning.ai`
 - [Introduction to Machine Learning](https://introduction-to-machine-learning.netlify.app/) `LMU`
 
-# Intro to AI non-STEM
-- [How artificial intelligence is transforming the world](https://www.brookings.edu/research/how-artificial-intelligence-is-transforming-the-world/) `Brookings Institute`
-- [WIPO Technology Trends – Artificial Intelligence](https://www.wipo.int/tech_trends/en/artificial_intelligence/) `WIPO`
+# Intro to AI Non-STEM
 - [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) `DeepLearning.ai`
 - [Intro to Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) `Udacity`
 - [Introduction to Artificial Intelligence](https://www.coursera.org/learn/machine-learning) `IBM`
 - [AI Foundations for Everyone](https://www.coursera.org/specializations/ai-foundations-for-everyone) `IBM`
+- [How artificial intelligence is transforming the world](https://www.brookings.edu/research/how-artificial-intelligence-is-transforming-the-world/) `Brookings Institute`
