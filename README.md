@@ -12,28 +12,30 @@ Credits: Eugene Yan (https://eugeneyan.com), Suyash Shekhar (http://suyash.dev),
 2. [Markdown](#markdown)
 3. [Linux](#linux)
 4. [Version Control](#version-control)
-5. [Mathematics of ML](#mathematics)
-6. [Deep Learning](#deep-learning)
-7. [Forecasting](#forecasting)
-8. [Recommendation](#recommendation)
-9. [Search](#search)
-10. [Natural Language Processing](#natural-language-processing)
-11. [Sequence Modelling](#sequence-modelling)
-12. [Computer Vision](#computer-vision)
-13. [Reinforcement Learning](#reinforcement-learning)
-14. [Anomaly Detection](#anomaly-detection)
-15. [Knowledge Graphs](#knowledge-graphs)
-16. [Information Extraction](#information-extraction)
-17. [Weak Supervision](#weak-supervision)
-18. [MLOps](#mlops)
-19. [Explainable and Interpretable AI](#explainable-ai)
-20. [Ethics](#ethics)
-21. [Interviewing for Jobs](#interviewing)
-22. [Outreach](#outreach)
-23. [Industry Internships](#industry-internships)
-24. [Cheat Sheets](#cheat-sheets)
-25. [Intro to AI for Beginners](#intro-to-ai-beginners)
-26. [Intro to AI for non-STEM](#intro-to-ai-non-stem)
+5. [Intro to AI for Beginners](#intro-to-ai-beginners)
+6. [Intro to AI for non-STEM](#intro-to-ai-non-stem)
+7. [Interviewing for Jobs](#interviewing)
+8. [Outreach](#outreach)
+9. [Industry Internships](#industry-internships)
+10. [Industry Lessons Learned](#industry-lessons-learned)
+11. [Cheat Sheets](#cheat-sheets)
+12. [Mathematics of ML](#mathematics)
+13. [Deep Learning](#deep-learning)
+14. [Forecasting](#forecasting)
+15. [Recommendation](#recommendation)
+16. [Search](#search)
+17. [Natural Language Processing](#natural-language-processing)
+18. [Sequence Modelling](#sequence-modelling)
+19. [Computer Vision](#computer-vision)
+20. [Reinforcement Learning](#reinforcement-learning)
+21. [Anomaly Detection](#anomaly-detection)
+22. [Knowledge Graphs](#knowledge-graphs)
+23. [Information Extraction](#information-extraction)
+24. [Weak Supervision](#weak-supervision)
+25. [MLOps](#mlops)
+26. [Explainable and Interpretable AI](#explainable-ai)
+27. [Ethics](#ethics)
+
 
 More to come!!
 
@@ -41,19 +43,92 @@ More to come!!
 ## Python
 - [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 - [Machine Learning in Python](https://www.springboard.com/learning-paths/machine-learning-python/) `Springboard`
+- VIDEO: [Learn Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+
 
 ## Markdown
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) `GitHub`
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
+- VIDEO: [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+
 
 ## Linux
 - [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) `Udacity`
 - [Introduction to Linux](https://www.edx.org/course/introduction-to-linux) `Linux Foundation`
 
+
 ## Version Control
 - [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) `HubSpot`
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [Git Cheat Sheet](https://training.github.com/) `GitHub`
+- VIDEO: [Github Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
+
+## Intro to AI Beginners
+- [Machine Learning](https://www.coursera.org/learn/machine-learning) `Stanford`
+- [ML for Beginners](https://github.com/microsoft/ML-For-Beginners) `Microsoft`
+- [ML Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/) `Cruise`
+- [Introduction to Machine Learning](Introduction to Machine Learning Course) `Udacity`
+- [Artifical Intelligence](https://www.udacity.com/course/artificial-intelligence--ud954) `Georgia Tech`
+- [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185) `Facebook AI`
+- [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) `Georgia Tech`
+- [Introduction to Machine Learning](https://introduction-to-machine-learning.netlify.app/) `LMU`
+- VIDEO: [Machine Learning](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) `Stanford`
+- VIDEO: [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) `MIT`
+- VIDEO: [Introduction to Artificial Intelligence](http://ai.berkeley.edu/home.html) `Berkeley`
+- VIDEO: [Introduction to Artificial Intelligence](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlqMkzr4xyuD6cXTIgPuzgn) `Udacity`
+- VIDEO: [Introduction to Machine Learning](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/) `DataSchool`
+
+## Intro to AI Non-STEM
+- [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) `DeepLearning.ai`
+- [Intro to Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) `Udacity`
+- [Introduction to Artificial Intelligence](https://www.coursera.org/learn/machine-learning) `IBM`
+- [AI Foundations for Everyone](https://www.coursera.org/specializations/ai-foundations-for-everyone) `IBM`
+- [How artificial intelligence is transforming the world](https://www.brookings.edu/research/how-artificial-intelligence-is-transforming-the-world/) `Brookings`
+- VIDEO: [AI for Everyone](https://www.youtube.com/playlist?list=PLuyk1nLMhRm5aV6_eeUIuj_MKEekvwGDR) `Deeplearning.ai`
+
+## Interviewing
+- [ML Interview Study Plan](https://github.com/khangich/machine-learning-interview)
+- [An Enlightening Guide to Machine Learning Interviews](https://github.com/alirezadir/machine-learning-interview-enlightener)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) `Doppler`
+
+## Outreach
+- [Boston After School and Beyond](https://bostonbeyond.org/approach/innovation/stem/)
+- [Outreachy](https://www.outreachy.org/) `Outreachy`
+- [NPower](https://www.npower.org/get-involved/) `NPower`
+- [Hour of Code](https://code.org/) 
+- [Volunteer for Code for Democracy](https://codefordemocracy.org/volunteer/)
+
+## Industry Internships
+- [Summer 2022 Tech Internships](https://github.com/pittcsc/Summer2022-Internships) `Pitt CSC`
+- [Tips for Computer Science Internship Interviews](https://louisrli.github.io/blog/2014/01/18/tips-for-computer-science-internship-interviews/)
+- [How to Land a Top-notch Tech Internship — and a Tech Job — While You’re Still in School](https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/) `FreeCodeCamp`
+- [How to Talk About Your Side Projects](https://www.freecodecamp.org/news/how-to-talk-about-your-side-projects-18b96f192817/#.egwz2u3jl) `FreeCodeCamp`
+- [Singapore Tech Internships](https://github.com/sushinoya/singapore-tech-internships)
+- [Canadian Tech Internships for Summer 2022](https://github.com/ChrisDryden/Canadian-Tech-Internships-Summer-2022)
+- [Interships - What you need to know](https://www.levels.fyi/internships/)
+- [Playing the Internship Game](https://evykassirer.github.io/playing-the-internship-game/)
+
+## Industry Lessons Learned
+- [Successes and Challenges in Adopting Machine Learning at Scale at a Global Bank](https://www.youtube.com/watch?v=QYQKG5OcwEI) `Rabobank`
+- [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/abs/2011.09926) ([Paper](https://arxiv.org/pdf/2011.09926.pdf)) `Cambridge`
+- [The problem with AI developer tools for enterprises](https://towardsdatascience.com/the-problem-with-ai-developer-tools-for-enterprises-and-what-ikea-has-to-do-with-it-b26277841661) `Databricks`
+- [Building Scalable and Performant Marketing ML Systems at Wayfair](https://www.aboutwayfair.com/careers/tech-blog/building-scalable-and-performant-marketing-ml-systems-at-wayfair) `Wayfair`
+- [On Challenges in Machine Learning Model Management](http://sites.computer.org/debull/A18dec/p5.pdf) `Amazon`
+- [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production)
+
+## Cheat Sheets
+- [PySpark Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/acfa4325-1d43-4542-8ce4-bea2d287db10) `Datacamp`
+- [Pandas Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b) `Datacamp`
+- [Numpy Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/ba1fe95a-8b70-4d2f-95b0-bc954e9071b0) `Datacamp`
+- [Keras Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/af9bb467-170d-41c9-a0bd-26e675384c4e) `Datacamp`
+- [Matplotlib Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9) `Datacamp`
+- [Scikit-learn Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/eb807da5-dce5-4b97-a54d-74e89f14266b) `Datacamp`
+- [Seaborn Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/263130e2-2c92-4348-a356-9ed9b5034247) `Datacamp`
+- [SpaCy Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/b5685b85-c4de-4987-926d-b999d0f5a8b6) `Datacamp`
+- [SciPy Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/dfdb6d58-e044-4b38-bab3-5de0b825909b) `Datacamp`
 
 ## Mathematics
 - [Mathematics of Machine Learning](https://mml-book.github.io/)
@@ -66,6 +141,9 @@ More to come!!
 - [Dive into Deep Learning](https://d2l.ai/) `Amazon`
 - [Deep Learning](https://www.coursera.org/specializations/ai-foundations-for-everyone) `DeepLearning.ai`
 - [Deep Learning Roadmap](https://github.com/instillai/deep-learning-roadmap)
+- VIDEO: [Intro to Deep Learning](http://introtodeeplearning.com/) `MIT`
+- VIDEO: [Deep Learning](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) `Oxford`
+- VIDEO: [Neural Networks for Deep Learning](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) `UToronto`
 
 ## Forecasting
 - [Forecasting at Uber: An Introduction](https://eng.uber.com/forecasting-introduction/) `Uber`
@@ -363,68 +441,4 @@ More to come!!
 - [Ethics and governance of artificial intelligence for health](https://www.who.int/publications/i/item/9789240029200) `WHO`
 
 
-## Industry Lessons Learned
-- [Successes and Challenges in Adopting Machine Learning at Scale at a Global Bank](https://www.youtube.com/watch?v=QYQKG5OcwEI) `Rabobank`
-- [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/abs/2011.09926) ([Paper](https://arxiv.org/pdf/2011.09926.pdf)) `Cambridge`
-- [The problem with AI developer tools for enterprises](https://towardsdatascience.com/the-problem-with-ai-developer-tools-for-enterprises-and-what-ikea-has-to-do-with-it-b26277841661) `Databricks`
-- [Building Scalable and Performant Marketing ML Systems at Wayfair](https://www.aboutwayfair.com/careers/tech-blog/building-scalable-and-performant-marketing-ml-systems-at-wayfair) `Wayfair`
-- [On Challenges in Machine Learning Model Management](http://sites.computer.org/debull/A18dec/p5.pdf) `Amazon`
-- [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production)
 
-
-## Interviewing
-- [ML Interview Study Plan](https://github.com/khangich/machine-learning-interview)
-- [An Enlightening Guide to Machine Learning Interviews](https://github.com/alirezadir/machine-learning-interview-enlightener)
-- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) `Doppler`
-
-
-## Outreach
-- [Boston After School and Beyond](https://bostonbeyond.org/approach/innovation/stem/)
-- [Outreachy](https://www.outreachy.org/) `Outreachy`
-- [NPower](https://www.npower.org/get-involved/) `NPower`
-- [Hour of Code](https://code.org/) 
-- [Volunteer for Code for Democracy](https://codefordemocracy.org/volunteer/)
-
-
-## Industry Internships
-- [Summer 2022 Tech Internships](https://github.com/pittcsc/Summer2022-Internships) `Pitt CSC`
-- [Tips for Computer Science Internship Interviews](https://louisrli.github.io/blog/2014/01/18/tips-for-computer-science-internship-interviews/)
-- [How to Land a Top-notch Tech Internship — and a Tech Job — While You’re Still in School](https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/) `FreeCodeCamp`
-- [How to Talk About Your Side Projects](https://www.freecodecamp.org/news/how-to-talk-about-your-side-projects-18b96f192817/#.egwz2u3jl) `FreeCodeCamp`
-- [Singapore Tech Internships](https://github.com/sushinoya/singapore-tech-internships)
-- [Canadian Tech Internships for Summer 2022](https://github.com/ChrisDryden/Canadian-Tech-Internships-Summer-2022)
-- [Interships - What you need to know](https://www.levels.fyi/internships/)
-- [Playing the Internship Game](https://evykassirer.github.io/playing-the-internship-game/)
-
-
-## Cheat Sheets
-- [PySpark Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/acfa4325-1d43-4542-8ce4-bea2d287db10) `Datacamp`
-- [Pandas Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b) `Datacamp`
-- [Numpy Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/ba1fe95a-8b70-4d2f-95b0-bc954e9071b0) `Datacamp`
-- [Keras Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/af9bb467-170d-41c9-a0bd-26e675384c4e) `Datacamp`
-- [Matplotlib Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9) `Datacamp`
-- [Scikit-learn Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/eb807da5-dce5-4b97-a54d-74e89f14266b) `Datacamp`
-- [Seaborn Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/263130e2-2c92-4348-a356-9ed9b5034247) `Datacamp`
-- [SpaCy Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/b5685b85-c4de-4987-926d-b999d0f5a8b6) `Datacamp`
-- [SciPy Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/dfdb6d58-e044-4b38-bab3-5de0b825909b) `Datacamp`
-
-
-## Intro to AI Beginners
-- [Machine Learning](https://www.coursera.org/learn/machine-learning) `Stanford`
-- [ML for Beginners](https://github.com/microsoft/ML-For-Beginners) `Microsoft`
-- [ML Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/) `Cruise`
-- [Introduction to Machine Learning](Introduction to Machine Learning Course) `Udacity`
-- [Artifical Intelligence](https://www.udacity.com/course/artificial-intelligence--ud954) `Georgia Tech`
-- [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185) `Facebook AI`
-- [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) `Georgia Tech`
-- [Introduction to Machine Learning](https://introduction-to-machine-learning.netlify.app/) `LMU`
-
-
-## Intro to AI Non-STEM
-- [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) `DeepLearning.ai`
-- [Intro to Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) `Udacity`
-- [Introduction to Artificial Intelligence](https://www.coursera.org/learn/machine-learning) `IBM`
-- [AI Foundations for Everyone](https://www.coursera.org/specializations/ai-foundations-for-everyone) `IBM`
-- [How artificial intelligence is transforming the world](https://www.brookings.edu/research/how-artificial-intelligence-is-transforming-the-world/) `Brookings`
