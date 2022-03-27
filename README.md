@@ -44,17 +44,22 @@ More to come!!
 - [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 - [Machine Learning in Python](https://www.springboard.com/learning-paths/machine-learning-python/) `Springboard`
 - VIDEO: [Learn Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+- VIDEO: [Python Tutorial for Beginners](https://www.youtube.com/watch?v=t8pPdKYpowI)
+- VIDEO: [Python Crash Course for Beginners](https://www.youtube.com/watch?v=JJmcL1N2KQs)
 
 
 ## Markdown
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) `GitHub`
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
 - VIDEO: [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+- VIDEO: [Markdown Tips & Tricks 2022](https://www.youtube.com/watch?v=ftOBvusMHjQ) `codeSTACKr`
 
 
 ## Linux
 - [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) `Udacity`
 - [Introduction to Linux](https://www.edx.org/course/introduction-to-linux) `Linux Foundation`
+- VIDEO: [Intro to the Command Line - BASH Basics](https://www.youtube.com/watch?v=x73WTEltyHU)
+- VIDEO: [Beginner's Guide to the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
 
 
 ## Version Control
@@ -62,7 +67,7 @@ More to come!!
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [Git Cheat Sheet](https://training.github.com/) `GitHub`
 - VIDEO: [Github Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-
+- VIDEO: [Learn Git in 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 
 ## Intro to AI Beginners
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) `Stanford`
@@ -85,6 +90,8 @@ More to come!!
 - [Introduction to Artificial Intelligence](https://www.coursera.org/learn/machine-learning) `IBM`
 - [AI Foundations for Everyone](https://www.coursera.org/specializations/ai-foundations-for-everyone) `IBM`
 - [How artificial intelligence is transforming the world](https://www.brookings.edu/research/how-artificial-intelligence-is-transforming-the-world/) `Brookings`
+- VIDEO: [Artificial Intelligence is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc) `Stanford`
+- VIDEO: [The State of Artificial Intelligence](https://www.youtube.com/watch?v=NKpuX_yzdYs&t=6s) `MIT`
 - VIDEO: [AI for Everyone](https://www.youtube.com/playlist?list=PLuyk1nLMhRm5aV6_eeUIuj_MKEekvwGDR) `Deeplearning.ai`
 
 ## Interviewing
@@ -93,6 +100,8 @@ More to come!!
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) `Doppler`
+- VIDEO: [Ace the Machine Learning Interview](https://youtube.com/playlist?list=PLY1Fi4XflWSsLoOQr-Ee2R4qRFejtCFRh)
+- VIDEO: [Ace the Data Science Interview](https://www.youtube.com/watch?v=X8u6kr4fxXc&list=PLY1Fi4XflWStFs6tLQ3Gey2Aaq_U4-Xnc)
 
 ## Outreach
 - [Boston After School and Beyond](https://bostonbeyond.org/approach/innovation/stem/)
@@ -110,6 +119,7 @@ More to come!!
 - [Canadian Tech Internships for Summer 2022](https://github.com/ChrisDryden/Canadian-Tech-Internships-Summer-2022)
 - [Interships - What you need to know](https://www.levels.fyi/internships/)
 - [Playing the Internship Game](https://evykassirer.github.io/playing-the-internship-game/)
+- VIDEO: [How To Get a Machine Learning Internship in 2021](https://www.youtube.com/watch?v=GFUc1_uqxCI) 
 
 ## Industry Lessons Learned
 - [Successes and Challenges in Adopting Machine Learning at Scale at a Global Bank](https://www.youtube.com/watch?v=QYQKG5OcwEI) `Rabobank`
@@ -118,6 +128,7 @@ More to come!!
 - [Building Scalable and Performant Marketing ML Systems at Wayfair](https://www.aboutwayfair.com/careers/tech-blog/building-scalable-and-performant-marketing-ml-systems-at-wayfair) `Wayfair`
 - [On Challenges in Machine Learning Model Management](http://sites.computer.org/debull/A18dec/p5.pdf) `Amazon`
 - [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production)
+- VIDEO: [Conducting Fundamental ML Research as a Nonprofit](https://www.youtube.com/watch?v=iMxZIeOK5a8) `Weights and Biases`
 
 ## Cheat Sheets
 - [PySpark Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/acfa4325-1d43-4542-8ce4-bea2d287db10) `Datacamp`
@@ -135,12 +146,16 @@ More to come!!
 - [Computational Linear Algebra](https://www.fast.ai/2017/07/17/num-lin-alg/) `fast.ai`
 - [Mathematics of Machine Learning](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/) `MIT`
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) `Imperial College`
+- VIDEO: [A friendly introduction to linear algebra for ML ](https://www.youtube.com/watch?v=LlKAna21fLE) `X`
 
 ## Deep Learning
 - [Deep Learning](https://mitpress.mit.edu/books/deep-learning) `MIT`
 - [Dive into Deep Learning](https://d2l.ai/) `Amazon`
 - [Deep Learning](https://www.coursera.org/specializations/ai-foundations-for-everyone) `DeepLearning.ai`
 - [Deep Learning Roadmap](https://github.com/instillai/deep-learning-roadmap)
+- VIDEO: [Nuts and Bolts of Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I) 
+- VIDEO: [Foundations of Deep Learning](https://www.youtube.com/watch?v=zij_FTbJHsk&t=0s)
+- VIDEO: [Foundations and Challenges of Deep Learning](https://www.youtube.com/watch?v=11rsu_WwZTc&t=0s)
 - VIDEO: [Intro to Deep Learning](http://introtodeeplearning.com/) `MIT`
 - VIDEO: [Deep Learning](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) `Oxford`
 - VIDEO: [Neural Networks for Deep Learning](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) `UToronto`
@@ -156,7 +171,8 @@ More to come!!
 - [Managing Supply and Demand Balance Through Machine Learning](https://doordash.engineering/2021/06/29/managing-supply-and-demand-balance-through-machine-learning/) `DoorDash`
 - [Automatic Forecasting using Prophet, Databricks, Delta Lake and MLflow](https://www.youtube.com/watch?v=TkcpjnLh690) ([Paper](https://peerj.com/preprints/3190.pdf), [Code](https://github.com/facebook/prophet)) `Atlassian`
 - [Greykite: A flexible, intuitive, and fast forecasting library](https://engineering.linkedin.com/blog/2021/greykite--a-flexible--intuitive--and-fast-forecasting-library) `LinkedIn`
-
+- VIDEO: [Introduction to Forecasting in Machine Learning and Deep Learning](https://www.youtube.com/watch?v=bn8rVBuIcFg) `Uber`
+- VIDEO: [Forecast Your Products’ Demand with Machine Learning](https://www.youtube.com/watch?v=E9_pPwZdUXI) `LinkedIn`
 
 ## Recommendation
 - [Amazon.com Recommendations: Item-to-Item Collaborative Filtering](https://ieeexplore.ieee.org/document/1167344) ([Paper](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)) `Amazon`
@@ -221,6 +237,8 @@ More to come!!
 - [Personalized Cuisine Filter Based on Customer Preference and Local Popularity](https://doordash.engineering/2020/01/27/personalized-cuisine-filter/) `DoorDash`
 - [How We Built a Matchmaking Algorithm to Cross-Sell Products](https://www.gojek.io/blog/how-we-built-a-matchmaking-algorithm-to-cross-sell-products) `Gojek`
 - [On YouTube's Recommendation System](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/) `YouTube`
+- VIDEO: [How Recommender Systems Work](https://www.youtube.com/watch?v=n3RKsY2H-NE) `Netflix`
+- VIDEO: [How to Design and Build a Recommendation System Pipeline in Python](https://www.youtube.com/watch?v=v_mONWiFv0k) `BioSymmetrics`
 
 
 ## Search
@@ -275,7 +293,7 @@ More to come!!
 - [Towards Personalized and Semantic Retrieval for E-commerce Search via Embedding Learning](https://arxiv.org/abs/2006.02282) ([Paper](https://arxiv.org/pdf/2006.02282.pdf)) `JD`
 - [MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu’s Sponsored Search](http://research.baidu.com/Public/uploads/5d12eca098d40.pdf) `Baidu`
 - [Pre-trained Language Model based Ranking in Baidu Search](https://arxiv.org/abs/2105.11108) ([Paper](https://arxiv.org/pdf/2105.11108.pdf)) `Baidu`
-
+- VIDEO: [The Data Science Behind Search Engines](https://www.youtube.com/watch?v=dqRDyeFJUvk) `Pivotal`
 
 ## Natural Language Processing
 - [Abusive Language Detection in Online User Content](https://dl.acm.org/doi/10.1145/2872427.2883062) ([Paper](http://www.yichang-cs.com/yahoo/WWW16_Abusivedetection.pdf)) `Yahoo`
@@ -306,6 +324,8 @@ More to come!!
 - [WIDeText: A Multimodal Deep Learning Framework](https://medium.com/airbnb-engineering/widetext-a-multimodal-deep-learning-framework-31ce2565880c) `Airbnb`
 - [How we reduced our text similarity runtime by 99.96%](https://medium.com/data-science-at-microsoft/how-we-reduced-our-text-similarity-runtime-by-99-96-e8e4b4426b35) `Microsoft`
 - [Textless NLP: Generating expressive speech from raw audio](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/) [(Part 1)](https://arxiv.org/abs/2102.01192) [(Part 2)](https://arxiv.org/abs/2104.00355) [(Part 3)](https://arxiv.org/abs/2109.03264) [(Code and Pretrained Models)](https://github.com/pytorch/fairseq/tree/master/examples/textless_nlp) `Facebook`
+- VIDEO: [CS224: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) `Stanford`
+- VIDEO: [Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=oGk1v1jQITw&t=0s) `Salesforce`
 
 ## Sequence Modelling
 - [Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](https://arxiv.org/abs/1905.09248) ([Paper](https://arxiv.org/pdf/1905.09248.pdf))`Alibaba`
@@ -316,7 +336,8 @@ More to come!!
 - [Using Recurrent Neural Network Models for Early Detection of Heart Failure Onset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391725/) ([Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391725/pdf/ocw112.pdf)) `Sutter Health`
 - [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks](https://arxiv.org/abs/1511.05942) ([Paper](https://arxiv.org/pdf/1511.05942.pdf)) `Sutter Health`
 - [How Duolingo uses AI in every part of its app](https://venturebeat.com/2020/08/18/how-duolingo-uses-ai-in-every-part-of-its-app/) `Duolingo`
-- [Leveraging Online Social Interactions For Enhancing Integrity at Facebook](https://research.fb.com/blog/2020/08/leveraging-online-social-interactions-for-enhancing-integrity-at-facebook/) ([Paper](https://research.fb.com/wp-content/uploads/2020/08/TIES-Temporal-Interaction-Embeddings-For-Enhancing-Social-Media-Integrity-At-Facebook.pdf), [Video](https://crossminds.ai/video/5f3369780576dd25aef288cf/)) `Facebook`
+- [Leveraging Online Social Interactions For Enhancing Integrity at Facebook](https://research.fb.com/blog/2020/08/leveraging-online-social-interactions-for-enhancing-integrity-at-facebook/) ([Paper](https://research.fb.com/wp-content/uploads/2020/08/TIES-Temporal-Interaction-Embeddings-For-Enhancing-Social-Media-Integrity-At-Facebook.pdf), 
+- VIDEO: [6.S191 (2018): Sequence Modeling with Neural Networks](https://www.youtube.com/watch?v=CznICCPa63Q) `MIT`
 
 
 ## Computer Vision
@@ -343,6 +364,7 @@ More to come!!
 - [An Efficient Training Approach for Very Large Scale Face Recognition](https://arxiv.org/abs/2105.10375) ([Paper](https://arxiv.org/pdf/2105.10375)) `Alibaba`
 - [Identifying Document Types at Scribd](https://tech.scribd.com/blog/2021/identifying-document-types.html) `Scribd`
 - [Semi-Supervised Visual Representation Learning for Fashion Compatibility](https://arxiv.org/pdf/2109.08052.pdf) ([Paper](https://arxiv.org/pdf/2109.08052.pdf)) `Walmart`
+- VIDEO: [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=u6aEYuemt0M&t=0s)
 
 
 ## Reinforcement Learning
@@ -355,6 +377,8 @@ More to come!!
 - [Building AI Trading Systems](https://dennybritz.com/blog/ai-trading/) `Denny Britz`
 - [Reinforcement Learning for On-Demand Logistics](https://doordash.engineering/2018/09/10/reinforcement-learning-for-on-demand-logistics/) `DoorDash`
 - [Reinforcement Learning to Rank in E-Commerce Search Engine](https://arxiv.org/abs/1803.00710) ([Paper](https://arxiv.org/pdf/1803.00710.pdf)) `Alibaba`
+- VIDEO: [CS234: Reinforcement Learning](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) `Stanford`
+- VIDEO: [Deep Reinforcement Learning](https://www.youtube.com/watch?v=PtAIh9KSnjo&t=0s)
 
 ## Anomaly Detection
 - [Detecting Performance Anomalies in External Firmware Deployments](https://netflixtechblog.com/detecting-performance-anomalies-in-external-firmware-deployments-ed41b1bfcf46) `Netflix`
@@ -371,7 +395,8 @@ More to come!!
 - [Fighting fraud with Triplet Loss](https://tech.olx.com/fighting-fraud-with-triplet-loss-86e5f79c7a3e) `OLX Group`
 - [Facebook is Now Using AI to Sort Content for Quicker Moderation](https://www.theverge.com/2020/11/13/21562596/facebook-ai-moderation) ([Alternative](https://venturebeat.com/2020/11/13/facebooks-redoubled-ai-efforts-wont-stop-the-spread-of-harmful-content/)) `Facebook`
 - How AI is getting better at detecting hate speech [Part 1](https://ai.facebook.com/blog/how-ai-is-getting-better-at-detecting-hate-speech/), [Part 2](https://ai.facebook.com/blog/heres-how-were-using-ai-to-help-detect-misinformation/), [Part 3](https://ai.facebook.com/blog/training-ai-to-detect-hate-speech-in-the-real-world/), [Part 4](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech/) `Facebook`
-- [Deep Anomaly Detection with Spark and Tensorflow](https://databricks.com/session_eu19/deep-anomaly-detection-from-research-to-production-leveraging-spark-and-tensorflow) [(Hopsworks Video](https://www.youtube.com/watch?v=TgXVU8DSyCQ)) `Swedbank`, `Hopsworks`
+- [Deep Anomaly Detection with Spark and Tensorflow](https://databricks.com/session_eu19/deep-anomaly-detection-from-research-to-production-leveraging-spark-and-tensorflow) 
+- VIDEO: [Solve Fraud Challenges with Graph Network and Deep Learning in Hopsworks](https://www.youtube.com/watch?v=TgXVU8DSyCQ) `Hopsworks`
 
 ## Knowledge Graphs
 - [Building The LinkedIn Knowledge Graph](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph) `LinkedIn`
